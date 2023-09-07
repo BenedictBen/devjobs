@@ -38,6 +38,7 @@
    padding: 30px;
    border-radius: 5px;
    position: relative;
+   cursor: pointer;
 }
   .cards>img{
   padding: 10px;
@@ -73,4 +74,5 @@ button{
   border: none;
   font-weight: bolder;
   border-radius: 5px;
+  cursor: pointer;
 }
